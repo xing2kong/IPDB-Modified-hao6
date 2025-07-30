@@ -1,4 +1,4 @@
-name: Add Location of IP Addresses
+name: Auto Update bestcf
 
 on:
   push:
