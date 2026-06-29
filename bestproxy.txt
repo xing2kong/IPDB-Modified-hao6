@@ -108,7 +108,7 @@
 #US
 		<h2>Help Documents:</h2>#Unknown
 		<hr>#Unknown
-#Unknown
+#US
 #US
 		<p><strong>type：</strong>获取的 IP 地址类型，支持单个或多个类型，用分号分隔。示例：type=cfv4;cfv6;proxy</p>#Unknown
 		<p><strong>country：</strong>是否显示 IP 地区。设置为 true 表示显示。示例：country=true</p>#Unknown
@@ -150,11 +150,11 @@
 			<a href="https://t.me/HeroCore" target="_blank">Telegram</a> |#Unknown
 			<a href="https://api.030101.xyz">API</a>#Unknown
 		</p>#Unknown
-#Unknown
+#US
 		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>#Unknown
 			document.getElementById("year").textContent = new Date().getFullYear();#Unknown
 		</script>#Unknown
-#US
+#Unknown
 #Unknown
 		<script>#Unknown
 			// 获取包含占位符的元素，并替换内容#Unknown
